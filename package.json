@@ -1,0 +1,14 @@
+{
+  "name": "tonoku",
+  "version": "1.0.0",
+  "description": "tonoku",
+  "main": "tonove.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Venu",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
